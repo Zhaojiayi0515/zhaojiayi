@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
- [English](https://zhaojiayi0515.github.io/)
+ [English]
 # 📖教育经历
 - *09/2025-07/2026*, 爱尔兰高威大学, 计算机科学与技术
   核心课程: 数据分析编程、网络和网络科学、数据可视化、数据分析案例研究
